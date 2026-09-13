@@ -1568,7 +1568,117 @@
     "url": "/amkhi/AMKHI741.html",
     "prev_url": "/amkhi/AMKHI740.html",
     "prev_title": "SS Chapter 130: Project Closing the Distance (4)",
+    "next_url": "/amkhi/AMKHI742.html",
+    "next_title": "SS Chapter 132: In Search of Past Stories"
+  },
+  {
+    "title": "SS Chapter 132: In Search of Past Stories",
+    "chapter_id": "AMKHI742",
+    "chapter_num": 742,
+    "date": "2026-09-13 16:32:35 +0800",
+    "url": "/amkhi/AMKHI742.html",
+    "prev_url": "/amkhi/AMKHI741.html",
+    "next_url": "/amkhi/AMKHI743.html",
+    "prev_title": "SS Chapter 131: A New Start",
+    "next_title": "SS Chapter 133: Over-Immersion (1)"
+  },
+  {
+    "title": "SS Chapter 133: Over-Immersion (1)",
+    "chapter_id": "AMKHI743",
+    "chapter_num": 743,
+    "date": "2026-09-13 16:33:38 +0800",
+    "url": "/amkhi/AMKHI743.html",
+    "prev_url": "/amkhi/AMKHI742.html",
+    "next_url": "/amkhi/AMKHI744.html",
+    "prev_title": "SS Chapter 132: In Search of Past Stories",
+    "next_title": "SS Chapter 134: Over-Immersion (2)"
+  },
+  {
+    "title": "SS Chapter 134: Over-Immersion (2)",
+    "chapter_id": "AMKHI744",
+    "chapter_num": 744,
+    "date": "2026-09-13 16:34:01 +0800",
+    "url": "/amkhi/AMKHI744.html",
+    "prev_url": "/amkhi/AMKHI743.html",
+    "next_url": "/amkhi/AMKHI745.html",
+    "prev_title": "SS Chapter 133: Over-Immersion (1)",
+    "next_title": "SS Chapter 135: Over-Immersion (3)"
+  },
+  {
+    "title": "SS Chapter 135: Over-Immersion (3)",
+    "chapter_id": "AMKHI745",
+    "chapter_num": 745,
+    "date": "2026-09-13 16:34:25 +0800",
+    "url": "/amkhi/AMKHI745.html",
+    "prev_url": "/amkhi/AMKHI744.html",
+    "next_url": "/amkhi/AMKHI746.html",
+    "prev_title": "SS Chapter 134: Over-Immersion (2)",
+    "next_title": "SS Chapter 136: Operation Beat the Summer Heat (1)"
+  },
+  {
+    "title": "SS Chapter 136: Operation Beat the Summer Heat (1)",
+    "chapter_id": "AMKHI746",
+    "chapter_num": 746,
+    "date": "2026-09-13 16:34:56 +0800",
+    "url": "/amkhi/AMKHI746.html",
+    "prev_url": "/amkhi/AMKHI745.html",
+    "next_url": "/amkhi/AMKHI747.html",
+    "prev_title": "SS Chapter 135: Over-Immersion (3)",
+    "next_title": "SS Chapter 137: Operation Beat the Summer Heat (2)"
+  },
+  {
+    "title": "SS Chapter 137: Operation Beat the Summer Heat (2)",
+    "chapter_id": "AMKHI747",
+    "chapter_num": 747,
+    "date": "2026-09-13 16:36:21 +0800",
+    "url": "/amkhi/AMKHI747.html",
+    "prev_url": "/amkhi/AMKHI746.html",
+    "next_url": "/amkhi/AMKHI748.html",
+    "prev_title": "SS Chapter 136: Operation Beat the Summer Heat (1)",
+    "next_title": "SS Chapter 138: Operation Beat the Summer Heat (3)"
+  },
+  {
+    "title": "SS Chapter 138: Operation Beat the Summer Heat (3)",
+    "chapter_id": "AMKHI748",
+    "chapter_num": 748,
+    "date": "2026-09-13 16:36:46 +0800",
+    "url": "/amkhi/AMKHI748.html",
+    "prev_url": "/amkhi/AMKHI747.html",
+    "next_url": "/amkhi/AMKHI749.html",
+    "prev_title": "SS Chapter 137: Operation Beat the Summer Heat (2)",
+    "next_title": "SS Chapter 139: Leak Countermeasure Task Force (1)"
+  },
+  {
+    "title": "SS Chapter 139: Leak Countermeasure Task Force (1)",
+    "chapter_id": "AMKHI749",
+    "chapter_num": 749,
+    "date": "2026-09-13 16:37:16 +0800",
+    "url": "/amkhi/AMKHI749.html",
+    "prev_url": "/amkhi/AMKHI748.html",
+    "next_url": "/amkhi/AMKHI750.html",
+    "prev_title": "SS Chapter 138: Operation Beat the Summer Heat (3)",
+    "next_title": "SS Chapter 140: Leak Countermeasure Task Force (2)"
+  },
+  {
+    "title": "SS Chapter 140: Leak Countermeasure Task Force (2)",
+    "chapter_id": "AMKHI750",
+    "chapter_num": 750,
+    "date": "2026-09-13 16:37:56 +0800",
+    "url": "/amkhi/AMKHI750.html",
+    "prev_url": "/amkhi/AMKHI749.html",
+    "next_url": "/amkhi/AMKHI751.html",
+    "prev_title": "SS Chapter 139: Leak Countermeasure Task Force (1)",
+    "next_title": "SS Chapter 141: Eyewitness Account"
+  },
+  {
+    "title": "SS Chapter 141: Eyewitness Account",
+    "chapter_id": "AMKHI751",
+    "chapter_num": 751,
+    "date": "2026-09-13 16:38:16 +0800",
+    "url": "/amkhi/AMKHI751.html",
+    "prev_url": "/amkhi/AMKHI750.html",
     "next_url": null,
+    "prev_title": "SS Chapter 140: Leak Countermeasure Task Force (2)",
     "next_title": null
   }
 ]
